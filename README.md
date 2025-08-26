@@ -18,7 +18,7 @@ The goal is to build a portfolio of NLP projects step by step — starting from 
   - Machine Learning model training (KNN with One-vs-Rest)
   - Classification report & accuracy evaluation
 - **Results:** Achieved ~99% accuracy on the dataset.  
-- **Project Folder:** [`Resume-Screening`](./Resume-Screening)
+- **Project Folder:** [`Resume-Screening`](./Resume Screener)
 
 ---
 
